@@ -3,3 +3,14 @@ site_url: https://dibyendukankalia.com/
 nav:
     - Home: index.md
     - About: about.md
+theme:   
+  name: null
+  custom_dir: 'cinder'
+  features:
+    - search.suggest
+logo: 'img/logo.ico'
+markdown_extensions:
+- fontawesome_markdown
+plugins: 
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'

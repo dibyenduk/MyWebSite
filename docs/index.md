@@ -1,6 +1,6 @@
 # Dibyendu Kankalia
 
-[Resume](/files/DibyenduKankalia.pdf)
+:fa-file: [Resume](https://github.com/dibyenduk/MyWebSite/blob/main/files/DibyenduKankalia.pdf?raw=true)
 
 16+ years experience in Architecting and developing Web, Windows, and distributed
 applications. 7+ years experience in manufacturing domain.
@@ -8,6 +8,7 @@ applications. 7+ years experience in manufacturing domain.
 Certified AWS Solution Architect and Developer for Manufacturing Product Group
 developing strategy, design, and implementation of custom manufacturing execution
 systems (MES) and solutions focused on shop floor production planning and execution.
+
 
 ## Areas of Expertise
 
@@ -26,6 +27,7 @@ systems (MES) and solutions focused on shop floor production planning and execut
 | Identity | ADFS2, Thinktecture, Okta, OAuth, Open id Connect, WSFederation, STS, JWT, SAML, X509 |
 | Systems| Wonderware, IBM Maximo, Savigent, SAP PP, ADFS, Visual Studio, JIRA, Teamcity, Octopus Deploy | 
 | Test Tools| NUnit, Selenium, Fixie, Postman, SOAP UI |
+
 
 ## Profession Experience
 

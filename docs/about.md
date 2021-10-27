@@ -13,11 +13,11 @@
 * Personal Development Repository - https://github.com/dibyenduk
 
 ## Contacts
-* Email : dibyendu.kankalia@gmail.com
-* Phone : 410-967-0587
-* Linked In : [Profile](https://www.linkedin.com/in/dibyendu-kankalia)
-* City : Woodbury, MN 55129
+* :fa-envelope-square: dibyendu.kankalia@gmail.com
+* :fa-phone: 410-967-0587
+* :fa-linkedin-square: [Profile](https://www.linkedin.com/in/dibyendu-kankalia)
+* :fa-map: Woodbury, MN 55129
 
 ## Personal Development Repo
-* [GitHub Repository](https://github.com/dibyenduk)
+* :fa-github: [GitHub Repository](https://github.com/dibyenduk)
 
