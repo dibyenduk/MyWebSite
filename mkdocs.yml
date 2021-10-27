@@ -1,0 +1,5 @@
+site_name: Dibyendu Kankalia
+site_url: https://dibyendukankalia.com/
+nav:
+    - Home: index.md
+    - About: about.md
