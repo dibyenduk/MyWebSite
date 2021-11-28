@@ -2,19 +2,15 @@
 
 :fa-file: [Resume](https://github.com/dibyenduk/MyWebSite/blob/main/files/DibyenduKankalia.pdf?raw=true)
 
-16+ years experience in Architecting and developing Web, Windows, and distributed
-applications. 7+ years experience in manufacturing domain.
+17 years of experience architecting and developing Web, Windows, and distributed applications. 7+ years experience in manufacturing domain.
 
-Certified AWS Solution Architect and Developer for Manufacturing Product Group
-developing strategy, design, and implementation of custom manufacturing execution
-systems (MES) and solutions focused on shop floor production planning and execution.
-
+Certified AWS Solution Architect developing strategy, design, implementation and deployment of AWS Cloud based solutions enabling organizations to address business challenges.
 
 ## Areas of Expertise
 
 | Skill      | Details                          |
 | ----------- | ------------------------------------ |
-| AWS       | **Certified AWS Solutions Architect, Developer and SysOps. Administrator** |
+| AWS       | Certified AWS Solutions Architect, Developer and SysOps. Administrator |
 | Web Frameworks | ASP.NET MVC, ASP.NET Core, Angular, React JS, Node Js, Web API, MediatR |
 | Languages | C#, Html, JavaScript, CSS, JQuery, Bootstrap, RequireJS |
 | Windows   | Windows Presentation Foundation (WPF), Windows Workflow Foundation (WF) |
@@ -22,15 +18,13 @@ systems (MES) and solutions focused on shop floor production planning and execut
 | Databases | SQL Server 2016, Oracle 9i/10G, MongoDB, RDS, Aurora, DynamoDB |
 | Data Visualization | Dynatrace, Splunk, Elastic Search. Serilog |
 | CI/CD | GitHub/Bitbucket, TeamCity, Octopus Deploy, Ansible, CodeCommit, CodeBuild, CodeDeploy, CodePipeline|
-| Workflow | **Certified Savigent Workflow and Engine Developer** |
+| Workflow | Certified Savigent Workflow and Engine Developer |
 | MES/ERP | 3M MES, SAP ECC, SAP EWM | 
 | Identity | ADFS2, Thinktecture, Okta, OAuth, Open id Connect, WSFederation, STS, JWT, SAML, X509 |
 | Systems| Wonderware, IBM Maximo, Savigent, SAP PP, ADFS, Visual Studio, JIRA, Teamcity, Octopus Deploy | 
 | Test Tools| NUnit, Selenium, Fixie, Postman, SOAP UI |
 
-
 ## Profession Experience
-
 
 **3M MES (MANUFACTURING EXECUTION SYSTEM), 3M COMPANY, USA JUN 2014 – CURRENT**
 

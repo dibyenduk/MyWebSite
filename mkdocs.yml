@@ -3,6 +3,7 @@ site_url: https://dibyendukankalia.com/
 nav:
     - Home: index.md
     - About: about.md
+    - Articles: articles.md
 theme:   
   name: null
   custom_dir: 'cinder'
